@@ -1,8 +1,8 @@
 # iced-rs-tutorial-rust-gui
+Various example tutorials related to iced-rs
+
 Based on tutorials from:
-* jsonloader https://blog.logrocket.com/iced-rs-tutorial-rust-frontend-web-app/
 * counter: https://nikolish.in/gs-with-iced-1
+* jsonloader: https://blog.logrocket.com/iced-rs-tutorial-rust-frontend-web-app/
 
 
-# Setup
-1. Install [trunk](https://trunkrs.dev/#install)
